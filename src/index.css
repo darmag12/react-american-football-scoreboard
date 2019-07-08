@@ -19,6 +19,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.6rem;
+  background-image: url('/src/img/overlay.png'), url('/src/img/action-adult-american-football-264300.png');
+  
 }
 
 code {
